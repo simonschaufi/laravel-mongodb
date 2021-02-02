@@ -26,6 +26,7 @@ class Builder extends EloquentBuilder
         'avg',
         'sum',
         'exists',
+        'doesntExist',
         'push',
         'pull',
     ];
